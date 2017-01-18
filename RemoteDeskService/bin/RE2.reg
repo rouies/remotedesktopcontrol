@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{F617AF08-2856-419c-B4E5-2889C6B71EA9}]
+@="SSCredProvider"
+
+[HKEY_CLASSES_ROOT\CLSID\{F617AF08-2856-419c-B4E5-2889C6B71EA9}]
+@="SSCredProvider"
+
+[HKEY_CLASSES_ROOT\CLSID\{F617AF08-2856-419c-B4E5-2889C6B71EA9}\InprocServer32]
+@="SSCredProvider.dll"
+"ThreadingModel"="Apartment"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Credential Provider Filters\{F617AF08-2856-419c-B4E5-2889C6B71EA9}]
+@="SSCredProvider"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Code]
+"Value"="160101"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Code]
+"Lock"="0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Code]
+"ID"="FF"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Code]
+"LoginName"="administrator"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Code]
+"SupperCode"="1234567890"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Code]
+"Message"="LX:13898766789"
+

@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{F617AF08-2856-419c-B4E5-2889C6B71EA9}]
+@="SSCredProvider"
+
+[HKEY_CLASSES_ROOT\CLSID\{F617AF08-2856-419c-B4E5-2889C6B71EA9}]
+@="SSCredProvider"
+
+[HKEY_CLASSES_ROOT\CLSID\{F617AF08-2856-419c-B4E5-2889C6B71EA9}\InprocServer32]
+@="SSCredProvider.dll"
+"ThreadingModel"="Apartment"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Credential Provider Filters\{F617AF08-2856-419c-B4E5-2889C6B71EA9}]
+@="SSCredProvider"

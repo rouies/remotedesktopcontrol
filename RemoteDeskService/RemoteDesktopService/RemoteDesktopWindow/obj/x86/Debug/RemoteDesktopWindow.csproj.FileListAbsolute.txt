@@ -1,0 +1,15 @@
+D:\dotnet\RemoteDesktopService\RemoteDesktopWindow\bin\x86\Debug\RemoteDesktopWindow.exe
+D:\dotnet\RemoteDesktopService\RemoteDesktopWindow\bin\x86\Debug\RemoteDesktopWindow.pdb
+D:\dotnet\RemoteDesktopService\RemoteDesktopWindow\obj\x86\Debug\RemoteDesktopWindow.MainForm.resources
+D:\dotnet\RemoteDesktopService\RemoteDesktopWindow\obj\x86\Debug\RemoteDesktopWindow.Properties.Resources.resources
+D:\dotnet\RemoteDesktopService\RemoteDesktopWindow\obj\x86\Debug\RemoteDesktopWindow.csproj.GenerateResource.Cache
+D:\dotnet\RemoteDesktopService\RemoteDesktopWindow\obj\x86\Debug\RemoteDesktopWindow.exe
+D:\dotnet\RemoteDesktopService\RemoteDesktopWindow\obj\x86\Debug\RemoteDesktopWindow.pdb
+D:\DotNetProject\RemoteDesktopService\RemoteDesktopWindow\obj\x86\Debug\RemoteDesktopWindow.exe
+D:\DotNetProject\RemoteDesktopService\RemoteDesktopWindow\obj\x86\Debug\RemoteDesktopWindow.pdb
+D:\DotNetProject\RemoteDesktopService\RemoteDesktopWindow\bin\x86\Debug\RemoteDesktopWindow.exe
+D:\DotNetProject\RemoteDesktopService\RemoteDesktopWindow\bin\x86\Debug\RemoteDesktopWindow.pdb
+D:\DotNetProject\RemoteDesktopService\RemoteDesktopWindow\obj\x86\Debug\RemoteDesktopWindow.MainForm.resources
+D:\DotNetProject\RemoteDesktopService\RemoteDesktopWindow\obj\x86\Debug\RemoteDesktopWindow.Properties.Resources.resources
+D:\DotNetProject\RemoteDesktopService\RemoteDesktopWindow\obj\x86\Debug\RemoteDesktopWindow.csproj.GenerateResource.Cache
+D:\DotNetProject\RemoteDesktopService\RemoteDesktopWindow\obj\x86\Debug\RemoteDesktopWindow.csprojResolveAssemblyReference.cache

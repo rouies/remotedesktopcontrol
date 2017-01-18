@@ -1,0 +1,5 @@
+D:\dotnet\RemoteDesktopService\DesktopColtrolService\bin\Debug\DesktopControlService.dll
+D:\dotnet\RemoteDesktopService\DesktopColtrolService\bin\Debug\DesktopControlService.pdb
+D:\dotnet\RemoteDesktopService\DesktopColtrolService\obj\Debug\DesktopControlService.dll
+D:\dotnet\RemoteDesktopService\DesktopColtrolService\obj\Debug\DesktopControlService.pdb
+D:\dotnet\RemoteDesktopService\DesktopColtrolService\obj\Debug\DesktopControlService.csprojResolveAssemblyReference.cache

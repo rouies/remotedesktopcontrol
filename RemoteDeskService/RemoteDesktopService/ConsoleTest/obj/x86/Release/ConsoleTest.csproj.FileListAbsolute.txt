@@ -1,0 +1,14 @@
+D:\dotnet\RemoteDesktopService\ConsoleTest\bin\x86\Release\ConsoleTest.exe
+D:\dotnet\RemoteDesktopService\ConsoleTest\bin\x86\Release\ConsoleTest.pdb
+D:\dotnet\RemoteDesktopService\ConsoleTest\bin\x86\Release\DesktopControlService.dll
+D:\dotnet\RemoteDesktopService\ConsoleTest\bin\x86\Release\DesktopControlService.pdb
+D:\dotnet\RemoteDesktopService\ConsoleTest\obj\x86\Release\ConsoleTest.csprojResolveAssemblyReference.cache
+D:\dotnet\RemoteDesktopService\ConsoleTest\obj\x86\Release\ConsoleTest.exe
+D:\dotnet\RemoteDesktopService\ConsoleTest\obj\x86\Release\ConsoleTest.pdb
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\obj\x86\Release\ConsoleTest.exe
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\obj\x86\Release\ConsoleTest.pdb
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\bin\x86\Release\ConsoleTest.exe
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\bin\x86\Release\ConsoleTest.pdb
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\bin\x86\Release\DesktopControlService.dll
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\bin\x86\Release\DesktopControlService.pdb
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\obj\x86\Release\ConsoleTest.csprojResolveAssemblyReference.cache

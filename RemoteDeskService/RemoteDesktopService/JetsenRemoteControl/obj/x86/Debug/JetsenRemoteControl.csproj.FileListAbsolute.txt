@@ -1,0 +1,9 @@
+D:\DotNetProject\RemoteDesktopService\JetsenRemoteControl\bin\x86\Debug\JetsenRemoteControl.exe
+D:\DotNetProject\RemoteDesktopService\JetsenRemoteControl\bin\x86\Debug\JetsenRemoteControl.pdb
+D:\DotNetProject\RemoteDesktopService\JetsenRemoteControl\bin\x86\Debug\DesktopControlService.dll
+D:\DotNetProject\RemoteDesktopService\JetsenRemoteControl\bin\x86\Debug\DesktopControlService.pdb
+D:\DotNetProject\RemoteDesktopService\JetsenRemoteControl\obj\x86\Debug\JetsenRemoteControl.csprojResolveAssemblyReference.cache
+D:\DotNetProject\RemoteDesktopService\JetsenRemoteControl\obj\x86\Debug\JetsenRemoteControl.ProjectInstaller.resources
+D:\DotNetProject\RemoteDesktopService\JetsenRemoteControl\obj\x86\Debug\JetsenRemoteControl.csproj.GenerateResource.Cache
+D:\DotNetProject\RemoteDesktopService\JetsenRemoteControl\obj\x86\Debug\JetsenRemoteControl.exe
+D:\DotNetProject\RemoteDesktopService\JetsenRemoteControl\obj\x86\Debug\JetsenRemoteControl.pdb

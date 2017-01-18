@@ -1,0 +1,8 @@
+D:\dotnet\RemoteDesktopService\DesktopColtrolService\bin\x86\Release\DesktopControlService.dll
+D:\dotnet\RemoteDesktopService\DesktopColtrolService\bin\x86\Release\DesktopControlService.pdb
+D:\dotnet\RemoteDesktopService\DesktopColtrolService\obj\x86\Release\DesktopControlService.dll
+D:\dotnet\RemoteDesktopService\DesktopColtrolService\obj\x86\Release\DesktopControlService.pdb
+D:\DotNetProject\RemoteDesktopService\DesktopColtrolService\bin\x86\Release\DesktopControlService.dll
+D:\DotNetProject\RemoteDesktopService\DesktopColtrolService\bin\x86\Release\DesktopControlService.pdb
+D:\DotNetProject\RemoteDesktopService\DesktopColtrolService\obj\x86\Release\DesktopControlService.dll
+D:\DotNetProject\RemoteDesktopService\DesktopColtrolService\obj\x86\Release\DesktopControlService.pdb

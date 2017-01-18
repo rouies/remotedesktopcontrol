@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<button onclick="begin()">Begin</button>
+	<button onclick="size()">Size</button>
+	<br/>
+	<canvas id="contents" tabindex="-1" width="100" height="100">不支持HTML5</canvas>
+</body>
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="js/remote_desktop.js"></script>
+<script type="text/javascript">
+var canvas = document.getElementById("contents");
+var view = new RemoteDesktop.View(canvas,"192.168.234.100","9528");
+view.init("ws://192.168.234.133:8080/remotedesktop/websocket");
+function begin(){
+	view.requestRemoteDesktopService();
+}
+function size(){
+	view.showMessage("别打游戏了，赶紧干活ssss");
+}
+</script>
+</html>

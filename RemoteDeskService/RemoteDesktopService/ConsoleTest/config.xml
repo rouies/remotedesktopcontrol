@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration id="100" timer="10000" port="9528" basePath="C:\Windows\RemoteControl">
+  <server address="192.168.234.133" ctl-port="9898" img-port="9527"/>
+  <process-config>
+    <item index="2" name="qq"/>
+    <item index="1" name="chrome"/>
+    <item index="3" name="ZeroConfigService"/>
+  </process-config>
+</configuration>

@@ -1,0 +1,16 @@
+#pragma once
+
+#include <credentialprovider.h>
+#include <Shlwapi.h>
+
+#include <initguid.h>
+/*
+// {F617AF08-2856-419c-B4E5-2889C6B71EA9}
+IMPLEMENT_OLECREATE(<<class>>, <<external_name>>, 
+0xf617af08, 0x2856, 0x419c, 0xb4, 0xe5, 0x28, 0x89, 0xc6, 0xb7, 0x1e, 0xa9);
+*/
+DEFINE_GUID(CLSID_SSCredProvider, 0xf617af08, 0x2856, 0x419c, 0xb4, 0xe5, 0x28, 0x89, 0xc6, 0xb7, 0x1e, 0xa9);
+
+
+VOID SSWACredProvAddRef();
+VOID SSWACredProvRelease();

@@ -1,0 +1,14 @@
+D:\dotnet\RemoteDesktopService\ConsoleTest\bin\x86\Debug\ConsoleTest.exe
+D:\dotnet\RemoteDesktopService\ConsoleTest\bin\x86\Debug\ConsoleTest.pdb
+D:\dotnet\RemoteDesktopService\ConsoleTest\bin\x86\Debug\DesktopControlService.dll
+D:\dotnet\RemoteDesktopService\ConsoleTest\bin\x86\Debug\DesktopControlService.pdb
+D:\dotnet\RemoteDesktopService\ConsoleTest\obj\x86\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+D:\dotnet\RemoteDesktopService\ConsoleTest\obj\x86\Debug\ConsoleTest.exe
+D:\dotnet\RemoteDesktopService\ConsoleTest\obj\x86\Debug\ConsoleTest.pdb
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\obj\x86\Debug\ConsoleTest.exe
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\obj\x86\Debug\ConsoleTest.pdb
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\bin\x86\Debug\ConsoleTest.exe
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\bin\x86\Debug\ConsoleTest.pdb
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\bin\x86\Debug\DesktopControlService.dll
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\bin\x86\Debug\DesktopControlService.pdb
+D:\DotNetProject\RemoteDesktopService\ConsoleTest\obj\x86\Debug\ConsoleTest.csprojResolveAssemblyReference.cache

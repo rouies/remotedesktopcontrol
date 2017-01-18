@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/10/20 15:38:25。
+     1>项目“D:\DotNetProject\SSCredProvider__\SSCredProviderTest\SSCredProviderTest.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /errorReport:prompt SSCredProviderTest.cpp
+         SSCredProviderTest.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DotNetProject\SSCredProvider__\Release\SSCredProviderTest.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\DotNetProject\SSCredProvider__\Release\SSCredProviderTest.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DotNetProject\SSCredProvider__\Release\SSCredProviderTest.lib" /MACHINE:X64 Release\SSCredProviderTest.obj
+         正在生成代码
+         已完成代码的生成
+         SSCredProviderTest.vcxproj -> D:\DotNetProject\SSCredProvider__\Release\SSCredProviderTest.exe
+     1>已完成生成项目“D:\DotNetProject\SSCredProvider__\SSCredProviderTest\SSCredProviderTest.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:01:53.40
